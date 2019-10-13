@@ -5,10 +5,6 @@
   "description": "This extension was created with the awesome extensionizr.com",
   "homepage_url": "https://github.com/ElTimuro/bs-extension",
   "default_locale": "en",
-  "background": {
-    "page": "src/bg/background.html",
-    "persistent": true
-  },
   "content_scripts": [
     {
       "matches": [
