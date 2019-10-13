@@ -1,6 +1,6 @@
 {
-  "l10nTabName": {
-    "message": "appName",
-    "description": "Bullshit.js Extension"
+  "appName": {
+    "message": "Bullshit.js Extension",
+    "description": "Marks bullshit while browsing using Bullshit.js created by Vladimir Agafonkin."
   }
 }
