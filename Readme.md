@@ -7,7 +7,7 @@
 
 3. Go to chrome://extensions/ and activate developer mode
 
-4. Use "LOAD UNPACKED" to load the extension
+4. Use "LOAD UNPACKED" to load the dist folder
 
 ## Get the latest dictionary for Bullshit.js
 
