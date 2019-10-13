@@ -1,0 +1,28 @@
+{
+  "name": "bs-extension",
+  "version": "1.0.0",
+  "description": "Add bullshit.js easily to your browser.",
+  "main": "index.js",
+  "dependencies": {
+    "@mourner/bullshit": "^1.0.2"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.4",
+    "cpx": "^1.5.0",
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "build": "npx webpack --progress --colors --config webpack.config.js  --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElTimuro/bs-extension.git"
+  },
+  "author": "Timur Ercan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElTimuro/bs-extension/issues"
+  },
+  "homepage": "https://github.com/ElTimuro/bs-extension#readme"
+}
