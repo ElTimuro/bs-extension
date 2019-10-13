@@ -1,6 +1,10 @@
 {
   "appName": {
     "message": "Bullshit.js Extension",
-    "description": "Marks bullshit while browsing using Bullshit.js created by Vladimir Agafonkin."
+    "description": "Extension name"
+  },
+  "appDescription": {
+    "message": "Add 💩 Bullshit.js (https://mourner.github.io/bullshit.js/) to your browser easily.",
+    "description": "Extension description"
   }
 }

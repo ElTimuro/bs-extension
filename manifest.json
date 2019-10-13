@@ -2,7 +2,7 @@
   "name": "__MSG_appName__",
   "version": "0.0.3",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
+  "description": "__MSG_appDescription__",
   "homepage_url": "https://github.com/ElTimuro/bs-extension",
   "default_locale": "en",
   "content_scripts": [
